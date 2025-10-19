@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-10-19T05:38:56.555840Z</date>
+  <millis>1760852336555</millis>
+  <nanos>840000</nanos>
+  <sequence>0</sequence>
+  <logger>LogDemo</logger>
+  <level>INFO</level>
+  <class>LogDemo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>App Started</message>
+</record>
+<record>
+  <date>2025-10-19T05:38:56.579614Z</date>
+  <millis>1760852336579</millis>
+  <nanos>614000</nanos>
+  <sequence>1</sequence>
+  <logger>LogDemo</logger>
+  <level>WARNING</level>
+  <class>LogDemo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a warning</message>
+</record>
+<record>
+  <date>2025-10-19T05:38:56.579967Z</date>
+  <millis>1760852336579</millis>
+  <nanos>967000</nanos>
+  <sequence>2</sequence>
+  <logger>LogDemo</logger>
+  <level>SEVERE</level>
+  <class>LogDemo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a severe</message>
+</record>
+</log>
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: App Started
+Oct 19, 2025 2:00:49 AM LogDemo main
+WARNING: This is a warning
+Oct 19, 2025 2:00:49 AM LogDemo main
+SEVERE: This is a severe
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info1
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info2
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info3
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info4
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info5
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info6
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info7
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info8
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info9
+Oct 19, 2025 2:00:49 AM LogDemo main
+WARNING: Potential Issue10
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info11
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info12
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info13
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info14
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info15
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info16
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info17
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info18
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info19
+Oct 19, 2025 2:00:49 AM LogDemo main
+SEVERE: Critical Error20
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info21
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info22
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info23
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info24
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info25
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info26
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info27
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info28
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info29
+Oct 19, 2025 2:00:49 AM LogDemo main
+WARNING: Potential Issue30
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info31
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info32
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info33
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info34
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info35
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info36
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info37
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info38
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info39
+Oct 19, 2025 2:00:49 AM LogDemo main
+SEVERE: Critical Error40
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info41
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info42
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info43
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info44
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info45
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info46
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info47
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info48
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info49
+Oct 19, 2025 2:00:49 AM LogDemo main
+WARNING: Potential Issue50
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info51
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info52
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info53
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info54
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info55
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info56
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info57
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info58
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info59
+Oct 19, 2025 2:00:49 AM LogDemo main
+SEVERE: Critical Error60
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info61
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info62
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info63
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info64
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info65
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info66
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info67
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info68
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info69
+Oct 19, 2025 2:00:49 AM LogDemo main
+WARNING: Potential Issue70
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info71
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info72
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info73
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info74
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info75
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info76
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info77
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info78
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info79
+Oct 19, 2025 2:00:49 AM LogDemo main
+SEVERE: Critical Error80
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info81
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info82
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info83
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info84
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info85
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info86
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info87
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info88
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info89
+Oct 19, 2025 2:00:49 AM LogDemo main
+WARNING: Potential Issue90
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info91
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info92
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info93
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info94
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info95
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info96
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info97
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info98
+Oct 19, 2025 2:00:49 AM LogDemo main
+INFO: Processing Info99
+Oct 19, 2025 2:00:49 AM LogDemo main
+SEVERE: Critical Error100
